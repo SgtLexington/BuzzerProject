@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Arduino Footprints")(type Github)(uri https://github.com/Alarm-Siren/arduino-kicad-library/tree/master/Arduino.pretty)(options "")(descr ""))
+  (lib (name Arduino)(type KiCad)(uri "$(KISYSMOD)/Arduino.pretty")(options "")(descr ""))
+  (lib (name Microchips)(type KiCad)(uri "$(KISYSMOD)/Microchips.pretty")(options "")(descr ""))
+)
